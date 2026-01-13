@@ -131,10 +131,10 @@ export const ProductDetails = () => {
       {/* ADVANTAGES
       <h3 className="section-title">Our Advantages</h3>
       <div className="advantages">
-        <div>🚚 Express Delivery<br /><span>Ships in 24 Hours</span></div>
-        <div>🛡 Brand Warranty<br /><span>100% Original</span></div>
-        <div>🔥 Exciting Deals<br /><span>Prepaid Orders</span></div>
-        <div>🔒 Secure Payments<br /><span>SSL Protected</span></div>
+        <div> Express Delivery<br /><span>Ships in 24 Hours</span></div>
+        <div> Brand Warranty<br /><span>100% Original</span></div>
+        <div> Exciting Deals<br /><span>Prepaid Orders</span></div>
+        <div> Secure Payments<br /><span>SSL Protected</span></div>
       </div> */}
 
     </div>

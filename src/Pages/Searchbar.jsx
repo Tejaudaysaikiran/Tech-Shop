@@ -15,8 +15,8 @@ export const Searchbar = () => {
   );
 
   const handleClick = (item) => {
-    setOpen(false); // ✅ close search
-    navigate(`/product/${item.id}`); // ✅ open product
+    setOpen(false); //  close search
+    navigate(`/product/${item.id}`); //  open product
   };
 
   return (
