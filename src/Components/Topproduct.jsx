@@ -76,7 +76,7 @@ export const TopProducts = () => {
           );
         })}
 
-        {/* 🔥 BROWSE ALL CARD */}
+        {/*  BROWSE ALL CARD */}
         {active !== "All" && (
   <Link to="/productcard" className="browse-link">
     <div className="product-card browse-card">
