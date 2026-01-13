@@ -27,7 +27,7 @@ export const Login = ({ onClose, openSignup }) => {
         {/* Title */}
         <h2 className="login-title">Login</h2>
 
-        {/* 🔴 FIX HERE */}
+        {/* FIX HERE */}
         <p className="login-subtitle">
           New to Tech-Shop?{" "}
           <span
